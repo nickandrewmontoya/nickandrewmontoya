@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @nickandrewmontoya and thank you for stopping by.
+- 👀 I’m actively searching for a full time position as a data analyst, consumer insights analyst, sql analyst/developer, BI analyst, data scientist, financial analyst, marketing analyst, or similar positions. 
+- 🌱 I currently have intermediate to advanced SQL skills, advanced microsoft Excel and Office skills, and growing Python skills. a B.A. in Economics from San Diego State University
+- 💞️ I’m looking to network and/or collaborate on projects related to various industries: retail, entertainment, fashion, technology, automotive, hospitality, space, etc.
+- 📫 Contact me anytime via my linkedin https://www.linkedin.com/in/nickandrewmontoya/ or via email: nickandrewmontoya@gmail.com. I will respond within 24 hours. 
